@@ -19,7 +19,7 @@ callback = nil, -- callback function
 * parameters - rotatingFrame: instance, shooterFrame: instance
 * returns - metatable
 
-.new() takes two parameters, "rotatingFrame" whos Rotation will be used to define the rotation of the Rays. "shooterFrame" the rays will be parented to this frame. (these will affect the size of the rays and bullets)
+`.new()` takes two parameters, "rotatingFrame" whos Rotation will be used to define the rotation of the Rays. "shooterFrame" the rays will be parented to this frame. (these will affect the size of the rays and bullets)
 
 ```lua
 local module = require(path.to.module)
