@@ -19,6 +19,8 @@ https://user-images.githubusercontent.com/74130881/128536235-76583f01-62c1-4a02-
 
 Whenever a user interacts with their device (Custom Interactions can be scripted), a thin frame (ray) is created in the front face of a given Gui Object according to its rotation and relative to the Gui Object's size. A Projectile (bullet) is then created inside of that ray (relative to the ray's size) and is then tweened along the path of the ray, which you observe as moving projectiles on you screen!
 
+![diagram](https://user-images.githubusercontent.com/74130881/128547447-17f19de4-62a4-4ff7-bb6b-9458ebbbc72b.png)
+
 https://user-images.githubusercontent.com/74130881/128538060-980d25d2-008f-4607-b4a7-acf7947dd0f5.mp4
 
 # Examples:
