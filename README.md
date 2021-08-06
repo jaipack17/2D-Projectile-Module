@@ -4,4 +4,12 @@
    <a href="https://github.com/jaipack17/2D-Projectile-Module">Source Code</a> | <a href="https://www.roblox.com/library/7212819236/ProjectileModule">Module</a>
 </div>
 
+**Table of Contents**
+- 1
+- 2
+- 3
+- 4
 
+<hr/>
+
+# About
