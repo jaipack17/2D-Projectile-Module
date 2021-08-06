@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/74130881/128538060-980d25d2-008f-4607-
 
 # Examples:
 
-**Our Weapon: **
+**Our Weapon:**
 
 ![image](https://user-images.githubusercontent.com/74130881/128538289-f754d224-3e76-4600-9901-cfc55ce418d0.png)
 ![image](https://user-images.githubusercontent.com/74130881/128538351-a940d1cb-6dc9-4a7b-8c4f-a32ddd1e5ea9.png)
@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/74130881/128538060-980d25d2-008f-4607-
 
 ![image](https://user-images.githubusercontent.com/74130881/128538526-fa4127e2-119f-416c-a383-8867a79805ab.png)
 
-"Weapon Controller" will be the script we'll be coding in!
+"Weapon Controller" will be the script we'll be coding in! The code below utilizes all the functions and events of the module!
 
 ```lua
 local module = require(path.to.module)
