@@ -42,7 +42,7 @@ weapon:SetBulletColor(Color3.new(255,255,0)) -- set the color of the bullet
 weapon:SetRayVisibility(false) -- should the ray be visible when we shoot the projectile? no
 weapon:SetTweenEasingStyle(Enum.EasingStyle.Linear) -- tween easing style
 weapon:SetTweenLength(1) -- tween length
--- weapon:SetBullet(customBulletInstance) -- used to create custom projectiles, lets say, an imagelabel, (size of the bullet will be affected by :SetBulletSize())
+-- weapon:SetBullet(customBulletInstance) || used to create custom projectiles, lets say, an imagelabel, (size of the bullet will be affected by :SetBulletSize())
 weapon:SetCallbackFunction(function() -- callback function (called when the projectile reaches the end point of the ray)
 	print("Bullet has reached the end point!")
 end)
