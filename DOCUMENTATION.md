@@ -13,3 +13,16 @@ bulletColor = Color3.new(255, 255, 0), -- color of the bullet
 rayVisible = false, -- visibility of the formed ray,
 callback = nil, -- callback function
 ```
+
+## `.new` - initializing our weapon
+
+* parameters - rotatingFrame: instance, shooterFrame: instance
+* returns - metatable
+
+.new() takes two parameters, "rotatingFrame" whos Rotation will be used to define the rotation of the Rays. "shooterFrame" the rays will be parented to this frame. (these will affect the size of the rays and bullets)
+
+```lua
+local module = require(path.to.module)
+local weapon = module.new(script.Parent.Parent.Bulk, script.Parent.Parent.Bulk)
+```
+
