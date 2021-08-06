@@ -16,4 +16,6 @@
 
 Using this module, you can create dynamic projectiles for your 2 dimensional GUI-Based Roblox games! No matter what the rotation of the weapon is, you are able to shoot projectiles in the direction the weapon is facing to!
 
+https://user-images.githubusercontent.com/74130881/128536235-76583f01-62c1-4a02-9da1-64dd10841b20.mp4
+
 
